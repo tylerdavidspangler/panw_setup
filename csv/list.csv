@@ -1,0 +1,2 @@
+allow_list,Custom URL Allow List,URL List,example.com example2.com example3.com
+deny_list,Custom URL Deny List,URL List,example.com example2.com example3.com
