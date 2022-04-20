@@ -24,11 +24,11 @@ $ pip install -r requirements.txt
 
 ## CSV files
 
-Before running the scripts, fill out the included CSV files. There are 6 of them, one for each of the configuration modules.
+Before running the script, fill out the included CSV files. There are 6 of them, one for each of the configuration modules.
 For example, fill out rules.csv to include your desired security ruleset.
 
 ## Running the Script
-There are two options for running the included modules. You can run configure_firewall.py which itself runs all enabled modules, or you can run the individual modules directly.
+There are two options for running the configuration modules. You can run configure_firewall.py which itself runs all enabled modules, or you can run the individual modules directly.
 ```bash
 # Run the primary script which runs all modules
 $ python configure_firewall.py
